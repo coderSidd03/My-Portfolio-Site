@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio-Site/static/css/main.bfbd2112.css",
+    "main.js": "/My-Portfolio-Site/static/js/main.e6dc0b57.js",
+    "static/media/ME--about.jpg": "/My-Portfolio-Site/static/media/ME--about.559ce2c5f8bae7dc0edc.jpg",
+    "static/media/cropEdited.png": "/My-Portfolio-Site/static/media/cropEdited.9c06c0bc9401e7fc88e2.png",
+    "static/media/resume_Soumyadeep Chakraborty.pdf": "/My-Portfolio-Site/static/media/resume_Soumyadeep Chakraborty.ffc705ac083db8f9ab31.pdf",
+    "static/media/debu.jpg": "/My-Portfolio-Site/static/media/debu.f60f94c7c00f9f10ec6d.jpg",
+    "static/media/soumo.jpg": "/My-Portfolio-Site/static/media/soumo.30a19314a2c3c479e580.jpg",
+    "static/media/blog-1.png": "/My-Portfolio-Site/static/media/blog-1.d4df2e2eedab6373148f.png",
+    "static/media/internship-2.jpg": "/My-Portfolio-Site/static/media/internship-2.a7ff034e31114818bbcf.jpg",
+    "static/media/eCommerce-5.png": "/My-Portfolio-Site/static/media/eCommerce-5.53b76e09da7d19abfe7a.png",
+    "static/media/url-5.png": "/My-Portfolio-Site/static/media/url-5.d220bd85192ba8ab2890.png",
+    "static/media/Book-3.jpg": "/My-Portfolio-Site/static/media/Book-3.dcf937648288df791d97.jpg",
+    "index.html": "/My-Portfolio-Site/index.html",
+    "main.bfbd2112.css.map": "/My-Portfolio-Site/static/css/main.bfbd2112.css.map",
+    "main.e6dc0b57.js.map": "/My-Portfolio-Site/static/js/main.e6dc0b57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfbd2112.css",
+    "static/js/main.e6dc0b57.js"
+  ]
+}
