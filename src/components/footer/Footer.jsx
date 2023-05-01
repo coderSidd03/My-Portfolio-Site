@@ -4,7 +4,7 @@ import { FaFacebookF, FaInstagram, FaTwitter } from 'react-icons/fa'
 
 const Footer = () => {
   return (
-    <footer>
+    <footer className='footer'>
       <a href="#" className='footer__logo'>SOUMYADEEP CHAKRABORTY</a>
 
       <ul className='permalinks'>

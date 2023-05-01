@@ -24,7 +24,6 @@ header {
   flex-direction: column;
   align-items: center;
   gap: 0.8rem;
-  ;
   position: absolute;
   left: 0;
   bottom: 3rem;
@@ -32,7 +31,7 @@ header {
 
 /* creating the line after socials using after pseudo element of headerSocials*/
 .header__socials::after {
-  content: '';
+  content: "";
   width: 1px;
   height: 2rem;
   background: var(--color-primary);
@@ -53,8 +52,8 @@ header {
 }
 
 /* .me-img {
-  width: 120%;
-  height: 72%;
+  width: 110%;
+  height: 82%;
   bottom: -7.5%;
   left: -9%;
   position: relative; 
@@ -77,6 +76,25 @@ header {
   }
 }
 
+@media screen and (max-width: 800px) {
+  .me {
+    width: 50%;
+    height: 80%;
+    position: absolute;
+    right: calc(50% - 11rem);
+    margin-top: 7em;
+    left: 24%;
+  }
+
+  .me-img {
+    width: full;
+    height: full;
+    /* left: 2%;*/
+    bottom: 36%; 
+    position: relative;
+  }
+}
+
 /* ============ MEDIA QUERIES (small devices) ================ */
 @media screen and (max-width: 600px) {
   header {
@@ -87,4 +105,39 @@ header {
   .scroll__down {
     display: none;
   }
+
+  .me {
+    width: 50%;
+    height: 17em;
+    position: absolute;
+    right: calc(50% - 11rem);
+    margin-top: 7em;
+    left: 24%;
+  }
+
+  .me-img {
+    width: full;
+    height: full;
+    /* left: 2%;*/
+    bottom: 36%; 
+    position: relative;
+  }
 }
+
+
+/* @media screen and (max-width: 375px) {
+  .me {
+    margin-top: 3em;
+    width: 50%;
+    height: 18em;
+    left: 24%;
+  }
+
+  .me-img {
+    width: full;
+    height: full;
+    bottom: 77%; 
+    position: relative;
+    margin-top: 30px;
+  }
+} */
